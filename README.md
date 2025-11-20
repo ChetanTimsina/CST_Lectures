@@ -9,14 +9,14 @@ Each course is in its own repository. Click any course to view, clone, or downlo
 
 | Course Code | Course Name | Repository |
 |------------|-------------|------------|
-| CPL101-PY | Introduction To Programming ( Python ) | [View Repo](https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-Python-.git) |
-| CPL101-C  | Introduction To Programming ( C ) | [View Repo](https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-C-Program-.git) |
-| CPL102-JAVA | Object-Oriented Programming ( Java ) | [View Repo](https://github.com/ChetanTimsina/CPL102-Object-Oriented-Programming-Java-.git) |
-| CTE208-FLUTTER | Mobile Application Development ( Flutter ) | [View Repo](https://github.com/ChetanTimsina/CTE208-Mobile-Application-Developement-Flutter-.git) |
-| CTE309-ML | Machine Learning AI Model Training | [View Repo](https://github.com/ChetanTimsina/CTE309-Machine-Learning-AI-Model-Training-.git) |
-| ITM301 | Professional Practices in IT | [View Repo](https://github.com/ChetanTimsina/ITM301-Professional-Practices-in-IT.git) |
-| ITM302-LINUX | System Administration ( Linux ) | [View Repo](https://github.com/ChetanTimsina/ITM302-System-Administration-Linux-.git) |
-| MINI-PROJECT | MiniProject | [View Repo](https://github.com/ChetanTimsina/MiniProject.git) |
+| CPL101-PY | Introduction To Programming ( Python ) | [View Repository](https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-Python-.git) |
+| CPL101-C  | Introduction To Programming ( C ) | [View Repository](https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-C-Program-.git) |
+| CPL102-JAVA | Object-Oriented Programming ( Java ) | [View Repository](https://github.com/ChetanTimsina/CPL102-Object-Oriented-Programming-Java-.git) |
+| CTE208-FLUTTER | Mobile Application Development ( Flutter ) | [View Repository](https://github.com/ChetanTimsina/CTE208-Mobile-Application-Developement-Flutter-.git) |
+| CTE309-ML | Machine Learning AI Model Training | [View Repository](https://github.com/ChetanTimsina/CTE309-Machine-Learning-AI-Model-Training-.git) |
+| ITM301 | Professional Practices in IT | [View Repository](https://github.com/ChetanTimsina/ITM301-Professional-Practices-in-IT.git) |
+| ITM302-LINUX | System Administration ( Linux ) | [View Repository](https://github.com/ChetanTimsina/ITM302-System-Administration-Linux-.git) |
+| MINI-PROJECT | MiniProject | [View Repository](https://github.com/ChetanTimsina/MiniProject.git) |
 
 ---
 
@@ -24,7 +24,7 @@ Each course is in its own repository. Click any course to view, clone, or downlo
 
 | Course Code | Course Name | Repository |
 |------------|-------------|------------|
-| EDP101 | Entrepreneurship | [View Repo](https://github.com/ChetanTimsina/EDP101-Entrepreneurship.git) |
+| EDP101 | Entrepreneurship | [View Repository](https://github.com/ChetanTimsina/EDP101-Entrepreneurship.git) |
 
 ---
 
