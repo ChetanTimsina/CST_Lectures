@@ -1,0 +1,27 @@
+[submodule "CPL101 Introduction To Programming ( Python )"]
+	path = CPL101 Introduction To Programming ( Python )
+	url = https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-Python-.git
+[submodule "CPL101 Introduction To Programming ( C )"]
+	path = CPL101 Introduction To Programming ( C )
+	url = https://github.com/ChetanTimsina/CPL101-Introduction-To-Programming-C-Program-.git
+[submodule "CPL102 Object-Oriented Programming ( Java )"]
+	path = CPL102 Object-Oriented Programming ( Java )
+	url = https://github.com/ChetanTimsina/CPL102-Object-Oriented-Programming-Java-.git
+[submodule "CTE208 Mobile Application Development ( Flutter )"]
+	path = CTE208 Mobile Application Development ( Flutter )
+	url = https://github.com/ChetanTimsina/CTE208-Mobile-Application-Developement-Flutter-.git
+[submodule "CTE309 Machine Learning AI Model Training"]
+	path = CTE309 Machine Learning AI Model Training
+	url = https://github.com/ChetanTimsina/CTE309-Machine-Learning-AI-Model-Training-.git
+[submodule "ITM301 Professional Practices in IT"]
+	path = ITM301 Professional Practices in IT
+	url = https://github.com/ChetanTimsina/ITM301-Professional-Practices-in-IT.git
+[submodule "ITM302 System Administration ( Linux )"]
+	path = ITM302 System Administration ( Linux )
+	url = https://github.com/ChetanTimsina/ITM302-System-Administration-Linux-.git
+[submodule "MiniProject"]
+	path = MiniProject
+	url = https://github.com/ChetanTimsina/MiniProject.git
+[submodule "Other Courses (Not Directly Related to IT)/EDP101 Entrepreneurship"]
+	path = Other Courses (Not Directly Related to IT)/EDP101 Entrepreneurship
+	url = https://github.com/ChetanTimsina/EDP101-Entrepreneurship.git
