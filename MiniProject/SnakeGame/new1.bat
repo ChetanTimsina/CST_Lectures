@@ -1,1 +1,0 @@
-PATH=C:\Program Files\Java\jdk-21\bin
