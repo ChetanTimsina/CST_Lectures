@@ -64,11 +64,11 @@ https://youtu.be/gSlXo2iLBro?si=GscEdPzHyS4iueQ5&t=216
    git clone https://github.com/ChetanTimsina/CST_Lectures.git  
 
 3. **Add the Course as a Submodule**  
-   git submodule add <your-github-repo-url>  
+   git submodule add &lt;your-github-repo-url&gt; 
 
 4. **Stage and Commit Changes**  
    git add .  
-   git commit -m "Added <course-name> as submodule"  
+   git commit -m "Added &lt;course-name&gt; as submodule"  
 
 5. **Push to GitHub**  
    git push origin main  
