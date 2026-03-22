@@ -60,18 +60,28 @@ https://youtu.be/gSlXo2iLBro?si=GscEdPzHyS4iueQ5&t=216
    - Create a separate GitHub repository for the course.  
    - Organize all lectures, notes, and materials in a clean and structured way.  
 
-2. **Clone the Main CST Lectures Repository**  
-   git clone https://github.com/ChetanTimsina/CST_Lectures.git  
+2. **Clone the Main CST Lectures Repository**
+   ```bash
+     git clone https://github.com/ChetanTimsina/CST_Lectures.git  
+     ```    
 
-3. **Add the Course as a Submodule**  
-   git submodule add &lt;your-github-repo-url&gt; 
+4. **Add the Course as a Submodule**
+   ```bash
+   git submodule add &lt;your-github-repo-url&gt;
+   ```
 
-4. **Stage and Commit Changes**  
-   git add .  
-   git commit -m "Added &lt;course-name&gt; as submodule"  
+6. **Stage and Commit Changes**
+   ```bash
+   git add .
+   ```
+   ```bash
+   git commit -m "Added &lt;course-name&gt; as submodule"
+   ```
 
-5. **Push to GitHub**  
-   git push origin main  
+8. **Push to GitHub**
+   ```bash
+   git push origin main
+   ``` 
 
 💡 Tip: Keep your course repository well-organized so it’s easy for others to explore and use.
 
