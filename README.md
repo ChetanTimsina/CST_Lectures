@@ -49,4 +49,32 @@ Each course is in its own repository. Click any course to view, clone, or downlo
 
 ---
 
+## 📌 Adding New Courses (Submodules)
+
+You can learn how to add submodules from this YouTube guide:  
+https://youtu.be/gSlXo2iLBro?si=GscEdPzHyS4iueQ5&t=216  
+
+### 🚀 Quick Steps to Add a Course
+
+1. **Create a New Repository**  
+   - Create a separate GitHub repository for the course.  
+   - Organize all lectures, notes, and materials in a clean and structured way.  
+
+2. **Clone the Main CST Lectures Repository**  
+   git clone https://github.com/ChetanTimsina/CST_Lectures.git  
+
+3. **Add the Course as a Submodule**  
+   git submodule add <your-github-repo-url>  
+
+4. **Stage and Commit Changes**  
+   git add .  
+   git commit -m "Added <course-name> as submodule"  
+
+5. **Push to GitHub**  
+   git push origin main  
+
+💡 Tip: Keep your course repository well-organized so it’s easy for others to explore and use.
+
+---
+
 Made with ❤️ by Chetan Timsina
