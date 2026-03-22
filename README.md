@@ -5,7 +5,7 @@ Each course is in its own repository. Click any course to view, clone, or downlo
 
 ---
 
-##  Semester 1 Courses
+##  Information Technology Courses
 
 | Course Code | Course Name | Repository |
 |------------|-------------|------------|
