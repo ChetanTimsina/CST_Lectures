@@ -67,7 +67,7 @@ https://youtu.be/gSlXo2iLBro?si=GscEdPzHyS4iueQ5&t=216
 
 4. **Add the Course as a Submodule**
    ```bash
-   git submodule add &lt;your-github-repo-url&gt;
+   git submodule add <your-github-repo-url>
    ```
 
 6. **Stage and Commit Changes**
@@ -75,7 +75,7 @@ https://youtu.be/gSlXo2iLBro?si=GscEdPzHyS4iueQ5&t=216
    git add .
    ```
    ```bash
-   git commit -m "Added &lt;course-name&gt; as submodule"
+   git commit -m "Added <course-name> as submodule"
    ```
 
 8. **Push to GitHub**
