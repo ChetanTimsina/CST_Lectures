@@ -25,3 +25,45 @@
 [submodule "Other Courses (Not Directly Related to IT)/EDP101 Entrepreneurship"]
 	path = Other Courses (Not Directly Related to IT)/EDP101 Entrepreneurship
 	url = https://github.com/ChetanTimsina/EDP101-Entrepreneurship.git
+[submodule "CTE203-Human-Computer-Interaction"]
+	path = CTE203-Human-Computer-Interaction
+	url = https://github.com/ChetanTimsina/CTE203-Human-Computer-Interaction.git
+[submodule "CTE204-Web-Application-Development"]
+	path = CTE204-Web-Application-Development
+	url = https://github.com/ChetanTimsina/CTE204-Web-Application-Development.git
+[submodule "CTE205-Operating-System"]
+	path = CTE205-Operating-System
+	url = https://github.com/ChetanTimsina/CTE205-Operating-System.git
+[submodule "CTE206-Software-Engineering"]
+	path = CTE206-Software-Engineering
+	url = https://github.com/ChetanTimsina/CTE206-Software-Engineering.git
+[submodule "CTE207-Artificial-Intelligence"]
+	path = CTE207-Artificial-Intelligence
+	url = https://github.com/ChetanTimsina/CTE207-Artificial-Intelligence.git
+[submodule "DIS101-Database-Systems"]
+	path = DIS101-Database-Systems
+	url = https://github.com/ChetanTimsina/DIS101-Database-Systems.git
+[submodule "ITM304-Project-Management"]
+	path = ITM304-Project-Management
+	url = https://github.com/ChetanTimsina/ITM304-Project-Management.git
+[submodule "NWC201-Computer-Communication-Networks"]
+	path = NWC201-Computer-Communication-Networks
+	url = https://github.com/ChetanTimsina/NWC201-Computer-Communication-Networks.git
+[submodule "NWC202-Introduction-to-Internet-of-Things"]
+	path = NWC202-Introduction-to-Internet-of-Things
+	url = https://github.com/ChetanTimsina/NWC202-Introduction-to-Internet-of-Things.git
+[submodule "PRW301-Introduction-to-Research"]
+	path = PRW301-Introduction-to-Research
+	url = https://github.com/ChetanTimsina/PRW301-Introduction-to-Research.git
+[submodule "CTE202-Data-Structure---Algorithms"]
+	path = CTE202-Data-Structure---Algorithms
+	url = https://github.com/ChetanTimsina/CTE202-Data-Structure---Algorithms.git
+[submodule "DIS302-Data-Scalability---Analytics"]
+	path = DIS302-Data-Scalability---Analytics
+	url = https://github.com/ChetanTimsina/DIS302-Data-Scalability---Analytics.git
+[submodule "DIS303-Cryptology---Cryptanalysis"]
+	path = DIS303-Cryptology---Cryptanalysis
+	url = https://github.com/ChetanTimsina/DIS303-Cryptology---Cryptanalysis.git
+[submodule "NWC303-Advance-Routing"]
+	path = NWC303-Advance-Routing
+	url = https://github.com/ChetanTimsina/NWC303-Advance-Routing.git
