@@ -67,3 +67,9 @@
 [submodule "NWC303-Advance-Routing"]
 	path = NWC303-Advance-Routing
 	url = https://github.com/ChetanTimsina/NWC303-Advance-Routing.git
+[submodule "Other Courses (Not Directly Related to IT)/PHY101-Engineering-Physics"]
+	path = Other Courses (Not Directly Related to IT)/PHY101-Engineering-Physics
+	url = https://github.com/ChetanTimsina/PHY101-Engineering-Physics.git
+[submodule "Other Courses (Not Directly Related to IT)/ECD202-Digital-Electronics---Logic-Design"]
+	path = Other Courses (Not Directly Related to IT)/ECD202-Digital-Electronics---Logic-Design
+	url = https://github.com/ChetanTimsina/ECD202-Digital-Electronics---Logic-Design.git
